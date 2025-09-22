@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  bot:
+    build: .
+    volumes:
+      - ./bot:/app
+    working_dir: /app
+    command: python panirbot.py
