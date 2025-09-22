@@ -78,12 +78,5 @@ docker run -d --name panirbot panirbot
 
 ---
 
-## 📋 To-Do
-- [ ] Add persistent database support (currently JSON files)
-- [ ] Improve inline mode
-- [ ] Add more rating categories (books, games, etc.)
-
----
-
 ## 👤 Author
 [11linear11](https://github.com/11linear11)
